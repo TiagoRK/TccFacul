@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.Brand-container {
+  text-align: center;
+}
+
+.Nav-Dropdow {
+  user-select: none;
+}
+
+.Brand-name-main {
+  color: #0c5ed7;
+  font-weight: bolder;
+  font-size: 6rem;
+  font-style: italic;
+  font-family: fantasy;
+  user-select: none;
+  cursor: pointer;
+}
+
+.Blue-text {
+  color: #0c5ed79c;
+  margin-top: 0.25rem;
+  font-size: 0.875em;
+  --bs-text-opacity: 1;
+  font-family: fantasy;
+  user-select: none;
+}
+
+.NavBrand-name {
+  color: #0c5ed7;
+  font-weight: bolder;
+  font-style: italic;
+  font-family: fantasy;
+  user-select: none;
+  cursor: pointer;
+}
+
+.heigth-full {
+  height: 100%;
+}
+
+.min-height-full-vh {
+  min-height: 100vh;
+}

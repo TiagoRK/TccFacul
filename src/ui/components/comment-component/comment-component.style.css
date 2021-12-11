@@ -1,0 +1,18 @@
+.comment-pic {
+  width: 50px !important;
+  margin: 0.4rem;
+}
+
+.comment__user-name {
+  font-size: 1.4rem;
+}
+
+.comment-sec {
+  overflow-y: auto;
+  max-height: 20rem;
+  width: 100%;
+}
+
+.comment-sec::-webkit-scrollbar {
+  width: 0;
+}
